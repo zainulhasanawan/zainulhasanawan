@@ -14,14 +14,14 @@
 
 - 👨‍💻 My Portfolio [https://zainulhasanawan.github.io/My-Portfolio/](https://zainulhasanawan.github.io/My-Portfolio/)
 
-- 📫 Reach Me **zainulhassanawan001@gmail.com**
+- 📫 Reach Me **zainulhassanawan001@outlook.com**
 
 - ⚡ Fun fact **I Try To Make People Laugh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zain-ul-hassan-awan-32a105227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-ul-hassan-awan-32a105227" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with geeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with geeks" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithgeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with geeks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

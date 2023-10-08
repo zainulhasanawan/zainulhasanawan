@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Ul Hassan Awan.</h1>
-<h3 align="center">Passionate About Frontend Development & Data Science.</h3>
+<h3 align="center">Passionate About MERN Stack Development & Data Science.</h3>
 
 <img
   align="right"
